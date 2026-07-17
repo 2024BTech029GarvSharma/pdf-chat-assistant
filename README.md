@@ -52,7 +52,9 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-Create a `.env` file in the project root. Do not commit it.
+Create a `.env` file in the project root. A safe template is included as
+`.env.example`; copy it and replace the placeholder with your own key. Do not
+commit `.env`.
 
 ```env
 OPENROUTER_API_KEY=sk-or-v1-your-key-here
