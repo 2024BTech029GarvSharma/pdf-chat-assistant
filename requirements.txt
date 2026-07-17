@@ -1,0 +1,9 @@
+streamlit>=1.36
+pdfplumber>=0.11
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+requests>=2.32
+python-dotenv>=1.0
+scikit-learn>=1.5
+matplotlib>=3.9
